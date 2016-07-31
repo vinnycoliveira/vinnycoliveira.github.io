@@ -1,6 +1,6 @@
 #wrapper {
   text-align: center;
-  max-width: 375px;
+  max-width: 275px;
   margin: 50px auto;
 }
 
@@ -11,7 +11,7 @@
 }
 
 .profile-pic {
-  max-width: 188px;
+  max-width: 120px;
   margin: 0 0 -4px;
   padding: 0;
 }
